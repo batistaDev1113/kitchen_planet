@@ -1,6 +1,6 @@
 # Kitchen Planet Restaurant finder App
 
-Welcome to the Diner Planet Restaurant App README! This document will provide you with an overview of our project, the technologies we've used, the features we've implemented, and our plans for future development.
+Welcome to the Kitchen Planet Restaurant App README! This document will provide you with an overview of the project, the technologies I've used, the features I've implemented, and the plans for future development.
 
 ## Purpose
 
