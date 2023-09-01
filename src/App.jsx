@@ -8,7 +8,6 @@ function App() {
   const [businesses, setBusinesses] = useState([]);
 
   const handleBusinessChange = (updatedBusinesses) => {
-    console.log("updated businesses in app", updatedBusinesses);
     setBusinesses(updatedBusinesses);
   };
   return (
