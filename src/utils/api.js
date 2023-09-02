@@ -4,7 +4,9 @@ export const searchBusinesses = async (term, location, sortBy) => {
     `https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?term=${term}&location=${location}&sort_by=${sortBy}`,
     {
       headers: {
+        accept: "application/json",
         Authorization: `Bearer ${API_KEY}`,
+        "Access-Control-Allow-Origin": "*",
       },
     }
   );
